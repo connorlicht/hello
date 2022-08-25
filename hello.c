@@ -1,6 +1,6 @@
 /**
- * Author: Connor Licht
- *         connorlicht@unomaha.edu
+ * Author: Connor Licht , Caden Sorgenfrei
+ *         connorlicht@unomaha.edu , csorgenfrei@unomaha.edu
  * Date: 2022/08/23
  *
  * A simple hello world program in C
@@ -12,8 +12,10 @@
 int main(int argc, char **argv) {
 
   printf("Connor Licht\n");
-
   printf("Computer Engineering\n");
+
+  printf("Caden Sorgenfrei");
+  printf("Computer/Electrical Engineering");
 
   return 0;
 }
